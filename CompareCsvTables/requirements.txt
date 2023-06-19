@@ -1,0 +1,16 @@
+cffi==1.15.1
+cryptography==41.0.1
+deprecation==2.1.0
+lxml==4.9.2
+packaging==23.1
+pdfrw==0.4
+pikepdf==7.2.0
+Pillow==9.5.0
+pip==23.1.2
+pyAesCrypt==6.0.0
+pycparser==2.21
+pycryptodome==3.18.0
+PyPDF2==1.26.0
+setuptools==58.1.0
+typing-extensions==4.6.3
+python>=3.9
